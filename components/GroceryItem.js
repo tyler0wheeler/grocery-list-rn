@@ -18,7 +18,9 @@ const styles = StyleSheet.create({
     borderColor: 'black',
     borderWidth: 2,
     marginVertical: 10,
-    width: '80%'
+    width: '100%',
+    justifyContent: "center",
+    alignItems: "center"
   },
 })
 export default GroceryItem
